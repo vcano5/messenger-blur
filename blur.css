@@ -1,0 +1,7 @@
+._1ht1 {
+    filter: blur(5px);
+}
+
+._1ht1:hover {
+    filter: blur(0px);
+}
